@@ -1,0 +1,1 @@
+/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/build/intermediates/cxx/RelWithDebInfo/a6b1bh2h/obj/armeabi-v7a

@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86_64",
+    "file_": "/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1779512164
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/.cxx/Debug/k67o4ie5/x86_64/android_gradle_build.json due to:",
+    "file_": "/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -680174712
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/.cxx/Debug/k67o4ie5/x86_64/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1337685738
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/.cxx/Debug/k67o4ie5/x86_64/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -371709516
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1314945191
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/.cxx/Debug/k67o4ie5/x86_64\u0027",
+    "file_": "/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1793642193
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/.cxx/Debug/k67o4ie5/x86_64\u0027",
+    "file_": "/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -181781189
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : /home/saroj/Android/Sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003dx86_64\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\n-DANDROID_NDK\u003d/home/saroj/Android/Sdk/ndk/21.4.7075529\n-DCMAKE_ANDROID_NDK\u003d/home/saroj/Android/Sdk/ndk/21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003d/home/saroj/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/home/saroj/Android/Sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/build/intermediates/cxx/Debug/k67o4ie5/obj/x86_64\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/build/intermediates/cxx/Debug/k67o4ie5/obj/x86_64\n-DCMAKE_BUILD_TYPE\u003dDebug\n-B/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/.cxx/Debug/k67o4ie5/x86_64\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 74181531
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : /home/saroj/Android/Sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003dx86_64\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\n-DANDROID_NDK\u003d/home/saroj/Android/Sdk/ndk/21.4.7075529\n-DCMAKE_ANDROID_NDK\u003d/home/saroj/Android/Sdk/ndk/21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003d/home/saroj/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/home/saroj/Android/Sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/build/intermediates/cxx/Debug/k67o4ie5/obj/x86_64\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/build/intermediates/cxx/Debug/k67o4ie5/obj/x86_64\n-DCMAKE_BUILD_TYPE\u003dDebug\n-B/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/.cxx/Debug/k67o4ie5/x86_64\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 829223514
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/.cxx/Debug/k67o4ie5/x86_64/compile_commands.json.bin normally",
+    "file_": "/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1558816576
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1002598940
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/.cxx/Debug/k67o4ie5/x86_64/metadata_generation_command.txt",
+    "file_": "/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 659881916
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1354295272
+  }
+]

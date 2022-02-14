@@ -1,0 +1,1 @@
+/home/saroj/AndroidStudioProjects/TomatoDisease/Opencv/build/intermediates/cxx/Debug/k67o4ie5/obj/x86
